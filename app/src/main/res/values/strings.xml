@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RoomDatabase</string>
+    <string name="Enter_Name">Name</string>
+    <string name="Phone_Number">Phone Number</string>
+    <string name="Enter_Address">Address</string>
+    <string name="Save">Save Data</string>
+    <string name="Get">Get Data</string>
+</resources>
